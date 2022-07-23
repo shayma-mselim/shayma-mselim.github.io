@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: middle
   image: Shayma Mohammed Selim.jpg
   image_cicular: false # crops the image to make it circular
   address: >
